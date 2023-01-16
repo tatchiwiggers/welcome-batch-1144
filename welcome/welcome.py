@@ -1,3 +1,3 @@
-message = 'Wecolme to your first day of the bootcamp!!'
+message = 'Wecolme to your first day!!'
 
 print(message)
